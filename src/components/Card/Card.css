@@ -1,0 +1,8 @@
+.card {
+  text-align: left;
+  width: 20rem;
+}
+
+.card > p {
+  margin-left: 5px;
+}
