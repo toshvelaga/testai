@@ -1,6 +1,8 @@
 import React from "react";
 import { Chart } from "react-google-charts";
 
+// React Google Charts Bar Chart: https://react-google-charts.com/bar-chart
+
 function BarChart(props) {
   return (
     <div>
